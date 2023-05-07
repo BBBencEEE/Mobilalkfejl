@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1057659301242",
+    "project_id": "mobil-40b24",
+    "storage_bucket": "mobil-40b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057659301242:android:ac6b7fea6b1d787f22bac3",
+        "android_client_info": {
+          "package_name": "com.example.mobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057659301242-fi9pq8tfqvsvrhscfa5fkhqbafe4j6hu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobil",
+            "certificate_hash": "e6582bbc7a52d6035128fc5fb234102e36e7eee4"
+          }
+        },
+        {
+          "client_id": "1057659301242-9dfvapm5vn4svr7uq3ihi09hjsu4v9dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe0WGawuEqvt8ghiTe_gVaL9TcnY85ErQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057659301242-9dfvapm5vn4svr7uq3ihi09hjsu4v9dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mobil</string>
+
+    <string name="login">Bejelentkezés</string>
+    <string name="signup">Regisztráció</string>
+
+    <string name="email">E-mail cím</string>
+    <string name="password">Jelszó</string>
+    <string name="cancel">Mégse</string>
+
+    <string name="passwordAgain">Jelszó újra</string>
+    <string name="username">Felhasználónév</string>
+
+    <string name="to_cart">Kosárba</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Infó a termékről</string>
+    <string name="search">Keresés</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="settings">Beállítások</string>
+
+    <string-array name="shopping_item_names">
+        <item>Kóla</item>
+        <item>Narancslé</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Coca-cola</item>
+        <item>100% narancs</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>4</item>
+        <item>4.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/cola</item>
+        <item>@drawable/narancs</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>400 Ft</item>
+        <item>300 Ft</item>
+    </array>
+    <string name="title_activity_cart">CartActivity</string>
+</resources>
